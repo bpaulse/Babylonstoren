@@ -73,8 +73,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 #### nvm -v
 #### nvmw
 #### cd /c/xampp/htdocs/
-#### npx create-react-app myfirstapp
-#### cd myfirstapp
+#### npx create-react-app Babylonstoren
+#### cd Babylonstoren
 #### npm start
 #### npm run build
 #### npm install -g serve
