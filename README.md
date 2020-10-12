@@ -68,37 +68,37 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-node -v
-npm -v
-nvm -v
-nvmw
-cd /c/xampp/htdocs/
-npx create-react-app myfirstapp
-cd myfirstapp
-npm start
-npm run build
-npm install -g serve
-serve -s build
-serve -s build
-npm install -g server
-npm install -g serve
-serve -s build
-npm install -g serve
-npm start
-npm start
-npm start
-npm install redux react-redux redux-thunk redux-devtools-extension
-npm start
-npm install react-router-dom
-npm start
-git status
-git add ,
-git status
-git add
-git add .
-git status
-git commit -m "Assessment Checkout"
-git push
-git remote add origin git@github.com:bpaulse/Babylonstoren.git
-git branch -M main
-git push -u origin main
+#### node -v
+#### npm -v
+#### nvm -v
+#### nvmw
+#### cd /c/xampp/htdocs/
+#### npx create-react-app myfirstapp
+#### cd myfirstapp
+#### npm start
+#### npm run build
+#### npm install -g serve
+#### serve -s build
+#### serve -s build
+#### npm install -g server
+#### npm install -g serve
+#### serve -s build
+#### npm install -g serve
+#### npm start
+#### npm start
+#### npm start
+#### npm install redux react-redux redux-thunk redux-devtools-extension
+#### npm start
+#### npm install react-router-dom
+#### npm start
+#### git status
+#### git add ,
+#### git status
+#### git add
+#### git add .
+#### git status
+#### git commit -m "Assessment Checkout"
+#### git push
+#### git remote add origin git@github.com:bpaulse/Babylonstoren.git
+#### git branch -M main
+#### git push -u origin main#### 
